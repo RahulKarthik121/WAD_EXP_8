@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="books.xsd">
+    
+    <book>
+        <title>Computer Networks</title>
+        <author>Andrew S. Tanenbaum</author>
+        <isbn>9780132126953</isbn>
+        <publisher>Pearson</publisher>
+        <edition>5</edition>
+        <price>650</price>
+    </book>
+    
+    <book>
+        <title>Operating System Concepts</title>
+        <author>Silberschatz</author>
+        <isbn>9781118063330</isbn>
+        <publisher>Wiley</publisher>
+        <edition>9</edition>
+        <price>720</price>
+    </book>
+    
+    <book>
+        <title>Compiler Design</title>
+        <author>Alfred V. Aho</author>
+        <isbn>9780321486813</isbn>
+        <publisher>Pearson</publisher>
+        <edition>2</edition>
+        <price>550</price>
+    </book>
+    
+</books>
